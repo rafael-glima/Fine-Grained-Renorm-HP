@@ -1,0 +1,33 @@
+llh_GD_EXP: array([2.21057255])
+llh_GD_EXP_Renorm_alpha: array([0.43281994])
+llh_GD_EXP_Renorm_beta: array([2.76987083])
+llh_GD_EXP_Renorm_alphabeta: array([0.49310962, 0.43323362, 0.43282268, 0.43281996, 0.43281994,
+       0.43281994])
+max_EXP_Renorm: 2.7698708266099077
+llh_GD_PWL: array([2.35542631])
+llh_GD_PWL_Renorm_K: array([1.23389937])
+llh_GD_PWL_Renorm_c: array([1.19208112])
+lllh_GD_PWL_Renorm_p: array([0.82666695])
+llh_GD_PWL_Renorm_Kc: array([1.02956538, 1.0588391 , 1.09207562, 1.12851289, 1.16628525,
+       1.20256251])
+llh_GD_PWL_Renorm_Kp: array([0.91487702, 1.00288688, 1.08719545, 1.1629167 , 1.22277789,
+       1.25468011])
+max_PWL_Renorm: 1.2546801091272155
+llh_GD_QEXP: array([1.6728739])
+llh_GD_QEXP_Renorm_a: array([1.0835072])
+lllh_GD_QEXP_Renorm_q: array([0.786389])
+llh_GD_QEXP_Renorm_aq: array([0.82923286, 0.86841708, 0.908948  , 0.95078006, 0.99386001,
+       1.03812614])
+max_QEXP_Renorm: 1.0835072044863834
+llh_GD_RAY: array([0.86046084])
+llh_GD_RAY_Renorm_gamma: array([0.15462291])
+llh_GD_RAY_Renorm_eta: array([0.20748154])
+llh_GD_RAY_Renorm_gammaeta: array([0.19597347, 0.1860859 , 0.1776221 , 0.17040045, 0.16425593,
+       0.15904051])
+max_RAY_Renorm: 0.20748154303699748
+llh_GD_GSS: array([1.85578313])
+llh_GD_GSS_Renorm_kappa: array([1.09801817])
+llh_GD_GSS_Renorm_tau: array([1.00770933])
+llh_GD_GSS_Renorm_kappatau: array([0.99586519, 1.03711252, 1.05710897, 1.07084472, 1.08233146,
+       1.09287505])
+max_GSS_Renorm: 1.0980181740894561
